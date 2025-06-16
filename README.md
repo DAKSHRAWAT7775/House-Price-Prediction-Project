@@ -1,4 +1,4 @@
-A machine learning web application that predicts house prices based on inputs like location, square footage, number of bedrooms (BHK) and bathrooms. The project uses a trained regression model to estimate the price and provides a simple web interface for users.
+A machine learning web application that predicts house prices based on inputs like location, size, number of bedrooms (BHK) and bathrooms. The project uses a trained regression model to estimate the price and provides a simple web interface for users.
 
 Technologies Used:
 Frontend:
